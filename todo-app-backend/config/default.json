@@ -1,0 +1,7 @@
+{
+    "jwtPrivateKey": "todo_jwtPrivateKey",
+    "mongodbUrl": "mongodb+srv://myUser:bNbckvmGfuxfe0Cf@cluster0.5eus5.mongodb.net/test",
+    "baseUrl": "http://localhost:8000",
+    "oAuthClient_Id": "505997518895-atj45q87fkppr6oc0bgo1pn5apq0pjp1.apps.googleusercontent.com",
+    "oAuthClient_secret": "xPDTNGCye-VwIh2OcJKOtQNX"
+}
