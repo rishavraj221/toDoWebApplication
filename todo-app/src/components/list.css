@@ -1,0 +1,12 @@
+.tasks:hover {
+  cursor: pointer;
+}
+.menu:hover {
+  cursor: pointer;
+}
+.menuItem:hover {
+  cursor: pointer;
+}
+.subTaskItem:hover {
+  cursor: pointer;
+}
