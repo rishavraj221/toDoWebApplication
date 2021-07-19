@@ -1,5 +1,7 @@
 # toDoWebApplication
 
+## [UI Design](https://www.figma.com/file/uuNz6Xo9HBkvHK74iZAtBN/To-do-app?node-id=0%3A1)
+
 ## clone this repo
 
 ### go to todo-app/src/config.json -> set your localhost ip
